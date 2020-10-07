@@ -12,6 +12,12 @@
 
 <br/>
 
+<div align="center">
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FranciscoHeronildo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 <!--
 **FranciscoHeronildo/FranciscoHeronildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,5 +47,3 @@ Here are some ideas to get you started:
 <!-- Spotify --> <a href="https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l?si=-Rt8V9xDRvSQ5hiPD7IFVA"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a> <!-- Steam --> <a href="https://steamcommunity.com/id/Heron_500/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 
 </div>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FranciscoHeronildo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
