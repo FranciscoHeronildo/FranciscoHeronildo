@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <a href="https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l?si=-Rt8V9xDRvSQ5hiPD7IFVA"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://steamcommunity.com/id/Heron_500/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 -->
 
-<h3>🎶 Most played on Spotify</h3>
+<h3>🎶 Spotify Playlists</h3>
 
 <img align='left' src='http://www.planetarei.com.br/New/GifRadio.gif' width='200"'>
 <img align='right' src='http://www.planetarei.com.br/New/GifRadio.gif' width='200"'>
