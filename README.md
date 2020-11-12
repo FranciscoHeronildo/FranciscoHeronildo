@@ -38,14 +38,12 @@ Here are some ideas to get you started:
 
 <h3>🎶 Now Playing on Spotify</h3>
 
-[<img src="https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l)
-
-https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l
+[<img src="https://{https://readme-spotify-status-pi.vercel.app/}/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l)
 
 <br/>
+
+</div>
 
 <img align='left' src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ddabef1-8390-424a-a828-f61e4df3d499/daraj8q-744f0563-d3f2-4a25-98a7-377abba7dc7b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNGRkYWJlZjEtODM5MC00MjRhLWE4MjgtZjYxZTRkZjNkNDk5XC9kYXJhajhxLTc0NGYwNTYzLWQzZjItNGEyNS05OGE3LTM3N2FiYmE3ZGM3Yi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.SA1l7Q84RdnWkpMUE4CI7L1ooag7YujrnpXN8y9Q0J4' width='50"'>
 
 [![HitCount](http://hits.dwyl.com/FranciscoHeronildo/{project}.svg)](http://hits.dwyl.com/FranciscoHeronildo/{project})
-
-</div> 
