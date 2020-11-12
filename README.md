@@ -38,7 +38,11 @@ Here are some ideas to get you started:
 
 <h3>🎶 Now Playing on Spotify</h3>
 
+<img align='left' src='http://www.planetarei.com.br/New/GifRadio.gif' width='200"'>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m64yqwippu73qdg9l9e76jv4l&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+<img align='right' src='http://www.planetarei.com.br/New/GifRadio.gif' width='200"'>
 
 <br/>
 
