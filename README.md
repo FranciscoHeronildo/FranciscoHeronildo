@@ -7,8 +7,6 @@
 
 <!-- Linkedin --><a href="https://www.linkedin.com/in/francisco-heronildo-280ab613a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><!-- Stack Overflow --><a href="https://stackoverflow.com/users/11334218/francisco-heronildo"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a><!-- Reddit --><a href="https://www.reddit.com/user/Heron500"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a><!-- GitLab --><a href="https://gitlab.com/FranciscoHeronildo"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a><!-- Outlook --><a href="mailto:heronildo.2010@hotmail.com?subject=Hello%20again"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge"></a>
 
-[![HitCount](http://hits.dwyl.com/FranciscoHeronildo/{project}.svg)](http://hits.dwyl.com/FranciscoHeronildo/{project})
-
 <!--
 **FranciscoHeronildo/FranciscoHeronildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,8 +36,16 @@ Here are some ideas to get you started:
 <a href="https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l?si=-Rt8V9xDRvSQ5hiPD7IFVA"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://steamcommunity.com/id/Heron_500/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 -->
 
-<h4>🎶 Now Playing on Spotify</h4>
+<h3>🎶 Now Playing on Spotify</h3>
 
-[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l)
+[<img src="https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l)
+
+https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l
+
+<br/>
+
+<img align='left' src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ddabef1-8390-424a-a828-f61e4df3d499/daraj8q-744f0563-d3f2-4a25-98a7-377abba7dc7b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNGRkYWJlZjEtODM5MC00MjRhLWE4MjgtZjYxZTRkZjNkNDk5XC9kYXJhajhxLTc0NGYwNTYzLWQzZjItNGEyNS05OGE3LTM3N2FiYmE3ZGM3Yi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.SA1l7Q84RdnWkpMUE4CI7L1ooag7YujrnpXN8y9Q0J4' width='50"'>
+
+[![HitCount](http://hits.dwyl.com/FranciscoHeronildo/{project}.svg)](http://hits.dwyl.com/FranciscoHeronildo/{project})
 
 </div> 
