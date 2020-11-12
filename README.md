@@ -41,9 +41,6 @@ Here are some ideas to get you started:
 
 <h3>🎶 Spotify Playlists</h3>
 
-<img align='left' src='http://www.planetarei.com.br/New/GifRadio.gif' width='200"'>
-<img align='right' src='http://www.planetarei.com.br/New/GifRadio.gif' width='200"'>
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m64yqwippu73qdg9l9e76jv4l&cover_image=true&theme=default)](https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l)
 
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ddabef1-8390-424a-a828-f61e4df3d499/daraj8q-744f0563-d3f2-4a25-98a7-377abba7dc7b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNGRkYWJlZjEtODM5MC00MjRhLWE4MjgtZjYxZTRkZjNkNDk5XC9kYXJhajhxLTc0NGYwNTYzLWQzZjItNGEyNS05OGE3LTM3N2FiYmE3ZGM3Yi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.SA1l7Q84RdnWkpMUE4CI7L1ooag7YujrnpXN8y9Q0J4' width='70"'>
