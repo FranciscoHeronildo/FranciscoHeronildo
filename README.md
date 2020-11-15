@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m64yqwippu73qdg9l9e76jv4l&cover_image=true&theme=default)](https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l)
 
-<img src='https://64.media.tumblr.com/599e4d3388deef328cebb50a09509f6c/tumblr_mf7sxobVbX1rfjowdo1_500.gif' width='150"'>
+<img src='https://64.media.tumblr.com/809bcb918f91d0a4c8aa508f10324f69/tumblr_mlpzqxfSkR1rfjowdo1_500.gif' width='90'>
 
 </div>
