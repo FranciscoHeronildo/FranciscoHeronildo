@@ -45,4 +45,11 @@ Here are some ideas to get you started:
 
 <img src='https://i.imgur.com/JKSsyI4.gif' width='140'> <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dee38e10-db68-462d-9df7-46b87d4c7876/ddxh2po-85a87439-ac1f-49d7-a828-6b78d768b403.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZGVlMzhlMTAtZGI2OC00NjJkLTlkZjctNDZiODdkNGM3ODc2XC9kZHhoMnBvLTg1YTg3NDM5LWFjMWYtNDlkNy1hODI4LTZiNzhkNzY4YjQwMy5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.q8SxOiTaAnvP7y8INkvze972hkUCpmlgzPXYwtjMs2w' width='130'> <img src='https://64.media.tumblr.com/809bcb918f91d0a4c8aa508f10324f69/tumblr_mlpzqxfSkR1rfjowdo1_500.gif' width='90'>
 
+
+
+ <h3>🕵 Counting...</h3>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/FranciscoHeronildo/count.svg" />
+ </p>
+
 </div>
