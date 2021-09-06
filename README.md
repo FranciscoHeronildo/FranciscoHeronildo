@@ -2,7 +2,7 @@
 
 <h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Francisco Heronildo</h2>
 
-<h3>👨‍💻 A Software Engineering student seeking knowledge</h3>
+<h3>👨‍💻 A Software Engineering student seeking knowledge and new challenge</h3>
 
 <br/>
 
