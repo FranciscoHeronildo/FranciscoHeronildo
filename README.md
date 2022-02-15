@@ -52,4 +52,8 @@ Here are some ideas to get you started:
    <img alingn="center" src="https://profile-counter.glitch.me/FranciscoHeronildo/count.svg" />
  </p>
 
+<h3>🏆 GitHub Trophies</h3>
+ 
+![trophy](https://github-profile-trophy.vercel.app/?username=FranciscoHeronildo&row=2&column=3&theme=juicyfresh)
+ 
 </div>
