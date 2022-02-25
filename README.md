@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FranciscoHeronildo&show_icons=true&theme=blue-green)
+<img align='right' src='https://i.giphy.com/media/d31wIu3HgY048MKs/giphy.webp' width='200"'>
+ 
+<!-- [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11334218)](https://stackoverflow.com/users/11334218/francisco-heronildo) -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=FranciscoHeronildo&show_icons=true&theme=blue-green)
  
 <!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranciscoHeronildo&theme=dark&date_format=j%20M%5B%20Y%5D)
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
 <a href="https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l?si=-Rt8V9xDRvSQ5hiPD7IFVA"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://steamcommunity.com/id/Heron_500/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 -->
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=FranciscoHeronildo&theme=xcode)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=FranciscoHeronildo&theme=xcode)
  
 <h3>🎶 Spotify Playlists</h3>
 
@@ -60,6 +61,6 @@ Here are some ideas to get you started:
 
 <h3>🏆 GitHub Trophies</h3>
  
-![trophy](https://github-profile-trophy.vercel.app/?username=FranciscoHeronildo&row=2&column=3&theme=juicyfresh)
+![Trophy](https://github-profile-trophy.vercel.app/?username=FranciscoHeronildo&row=2&column=3&theme=juicyfresh)
  
 </div>
