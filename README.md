@@ -1,6 +1,8 @@
+![header](https://github.com/FranciscoHeronildo/FranciscoHeronildo/blob/main/assets/header.png?raw=true)
+
 <div align="center">
 
-<h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" width="35px"> Hi, I'm Francisco Heronildo</h2>
+<!-- <h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" width="35px"> Hi, I'm Francisco Heronildo</h2> -->
 
 <h3>👨‍💻 A Software Engineering student seeking knowledge and new challenge</h3>
 
@@ -44,7 +46,7 @@ Here are some ideas to get you started:
 <a href="https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l?si=-Rt8V9xDRvSQ5hiPD7IFVA"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://steamcommunity.com/id/Heron_500/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 -->
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=FranciscoHeronildo&theme=xcode)
+<!-- ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=FranciscoHeronildo&theme=xcode) -->
  
 <h3>🎶 Spotify Playlists</h3>
 
@@ -65,3 +67,4 @@ Here are some ideas to get you started:
  
 </div>
 
+![footer](https://github.com/FranciscoHeronildo/FranciscoHeronildo/blob/main/assets/footer.svg?raw=true)
