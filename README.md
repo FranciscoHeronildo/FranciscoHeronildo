@@ -3,8 +3,7 @@
 <div align="center">
 
 <!-- <h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" width="35px"> Hi, I'm Francisco Heronildo</h2> -->
-
-<h3>👨‍💻 A Software Engineering student seeking knowledge and new challenge</h3>
+<!-- <h3>👨‍💻 A Software Engineering student seeking knowledge and new challenge</h3> -->
 
 <br/>
 
@@ -28,14 +27,13 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- <img align='right' src='https://64.media.tumblr.com/b60841061254ea725fb118442714afc4/fde191be2459280a-fd/s540x810/09f598878385be956aed5f61a3e4f15bd06c455e.gifv' width="400" height="250"> -->
- 
+
 <img align='right' src='https://i.giphy.com/media/d31wIu3HgY048MKs/giphy.webp' width='200'>
  
 <!-- [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11334218)](https://stackoverflow.com/users/11334218/francisco-heronildo) -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FranciscoHeronildo&show_icons=true&theme=blue-green)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranciscoHeronildo&theme=dark&date_format=j%20M%5B%20Y%5D)
 
- 
 <h3>🚀 Skills</h3>
 
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/><img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge"/><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"/>
@@ -45,8 +43,8 @@ Here are some ideas to get you started:
 
 <a href="https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l?si=-Rt8V9xDRvSQ5hiPD7IFVA"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://steamcommunity.com/id/Heron_500/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 -->
-
-<!-- ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=FranciscoHeronildo&theme=xcode) -->
+ 
+![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FranciscoHeronildo&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
  
 <h3>🎶 Spotify Playlists</h3>
 
