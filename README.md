@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img align='right' src='https://64.media.tumblr.com/b60841061254ea725fb118442714afc4/fde191be2459280a-fd/s540x810/09f598878385be956aed5f61a3e4f15bd06c455e.gifv' width="400" height="250">
+<!-- <img align='right' src='https://64.media.tumblr.com/b60841061254ea725fb118442714afc4/fde191be2459280a-fd/s540x810/09f598878385be956aed5f61a3e4f15bd06c455e.gifv' width="400" height="250"> -->
  
-<!-- <img align='right' src='https://i.giphy.com/media/d31wIu3HgY048MKs/giphy.webp' width='200'> -->
+<img align='right' src='https://i.giphy.com/media/d31wIu3HgY048MKs/giphy.webp' width='200'>
  
 <!-- [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11334218)](https://stackoverflow.com/users/11334218/francisco-heronildo) -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FranciscoHeronildo&show_icons=true&theme=blue-green)
