@@ -6,7 +6,7 @@
 
 <br/>
 
-<!-- Linkedin --><a href="https://www.linkedin.com/in/francisco-heronildo-280ab613a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><!-- Stack Overflow --><a href="https://stackoverflow.com/users/11334218/francisco-heronildo"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a><!-- Reddit --><a href="https://www.reddit.com/user/Heron500"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a><!-- GitLab --><a href="https://gitlab.com/FranciscoHeronildo"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a><!-- Outlook --><a href="mailto:heronildo.2010@hotmail.com?subject=Hello!%20Francisco%20Heronildo"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge"></a>
+<!-- Linkedin --><a href="https://www.linkedin.com/in/francisco-heronildo-280ab613a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><!-- Stack Overflow --><a href="https://stackoverflow.com/users/11334218/francisco-heronildo"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a><!-- Reddit --><a href="https://www.reddit.com/user/Heron500"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a><!-- GitLab --><a href="https://gitlab.com/FranciscoHeronildo"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a><!-- Outlook --><a href="mailto:heronildo.2010@hotmail.com?subject=Hello,%20Francisco%20Heronildo%20via%20GitHub"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge"></a>
 
 <!--
 **FranciscoHeronildo/FranciscoHeronildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img align='right' src='https://i.giphy.com/media/d31wIu3HgY048MKs/giphy.webp' width='200"'>
+<img align='right' src='https://64.media.tumblr.com/b60841061254ea725fb118442714afc4/fde191be2459280a-fd/s540x810/09f598878385be956aed5f61a3e4f15bd06c455e.gifv' width="400" height="250">
+ 
+<!-- <img align='right' src='https://i.giphy.com/media/d31wIu3HgY048MKs/giphy.webp' width='200'> -->
  
 <!-- [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11334218)](https://stackoverflow.com/users/11334218/francisco-heronildo) -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FranciscoHeronildo&show_icons=true&theme=blue-green)
- 
-<!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranciscoHeronildo&theme=dark&date_format=j%20M%5B%20Y%5D)
--->
+
  
 <h3>🚀 Skills</h3>
 
@@ -64,3 +64,4 @@ Here are some ideas to get you started:
 ![Trophy](https://github-profile-trophy.vercel.app/?username=FranciscoHeronildo&row=2&column=3&theme=juicyfresh)
  
 </div>
+
