@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 <img align='right' src='https://i.giphy.com/media/d31wIu3HgY048MKs/giphy.webp' width='200'>
  
 <!-- [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11334218)](https://stackoverflow.com/users/11334218/francisco-heronildo) -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=FranciscoHeronildo&show_icons=true&theme=blue-green)
+ 
+![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/FranciscoHeronildo?cardType=github&theme=github-dark)
+<!-- ![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=FranciscoHeronildo&show_icons=true&theme=blue-green) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranciscoHeronildo&theme=dark&date_format=j%20M%5B%20Y%5D)
 
 <h3>🚀 Skills</h3>
