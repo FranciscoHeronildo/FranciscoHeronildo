@@ -1,13 +1,13 @@
 ![header](https://github.com/FranciscoHeronildo/FranciscoHeronildo/blob/main/assets/Header.png?raw=true)
-
+---
 <div align="center">
 
 <!-- <h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" width="35px"> Hi, I'm Francisco Heronildo</h2> -->
-<!-- <h3>👨‍💻 A Software Engineering student seeking knowledge and new challenge</h3> -->
+<h3>👨‍💻 A Software Engineering student seeking knowledge and new challenge</h3>
 
 <br/>
 
-<!-- Linkedin --><a href="https://www.linkedin.com/in/francisco-heronildo-280ab613a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><!-- Stack Overflow --><a href="https://stackoverflow.com/users/11334218/francisco-heronildo"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a><!-- Reddit --><a href="https://www.reddit.com/user/Heron500"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a><!-- GitLab --><a href="https://gitlab.com/FranciscoHeronildo"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a><!-- Outlook --><a href="mailto:heronildo.2010@hotmail.com?subject=Hello,%20Francisco%20Heronildo%20via%20GitHub"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge"></a>
+<!-- Linkedin --><a href="https://www.linkedin.com/in/francisco-heronildo-280ab613a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><!-- Stack Overflow --><a href="https://stackoverflow.com/users/11334218/francisco-heronildo"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a><!-- Reddit --><a href="https://www.reddit.com/user/Heron500"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a><!-- GitLab --><a href="https://gitlab.com/FranciscoHeronildo"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a><!-- Outlook --><a href="mailto:heronildo.2010@hotmail.com?subject=[GitHub]%20Hello,%20Francisco%20Heronildo"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge"></a>
 
 <!--
 **FranciscoHeronildo/FranciscoHeronildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
