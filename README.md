@@ -2,7 +2,7 @@
 ---
 <div align="center">
 
-<!-- <h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" width="35px"> Hi, I'm Francisco Heronildo</h2> -->
+<h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" width="35px"> Hi, I'm Francisco Heronildo</h2>
 <h3>👨‍💻 A Software Engineering student seeking knowledge and new challenge</h3>
 
 <br/>
@@ -25,14 +25,17 @@ Here are some ideas to get you started:
 -->
 
 <br/>
+<br/>
+<br/>
 
 <!-- <img align='right' src='https://64.media.tumblr.com/b60841061254ea725fb118442714afc4/fde191be2459280a-fd/s540x810/09f598878385be956aed5f61a3e4f15bd06c455e.gifv' width="400" height="250"> -->
 
 <img align='right' src='https://i.giphy.com/media/d31wIu3HgY048MKs/giphy.webp' width='200'>
  
 <!-- [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11334218)](https://stackoverflow.com/users/11334218/francisco-heronildo) -->
- 
-![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/FranciscoHeronildo?cardType=github&theme=github-dark)
+
+[![My Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/FranciscoHeronildo?cardType=github&theme=graywhite)](https://git.io/awesome-stats-card)
+<!-- ![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/FranciscoHeronildo?cardType=github&theme=github-dark) -->
 <!-- ![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=FranciscoHeronildo&show_icons=true&theme=blue-green) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranciscoHeronildo&theme=dark&date_format=j%20M%5B%20Y%5D)
 
