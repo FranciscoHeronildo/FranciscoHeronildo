@@ -2,7 +2,9 @@
 ---
 <div align="center">
 
-<h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" width="35px"> <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+Francisco+Heronildo" alt="Typing SVG" /></h2>
+<!--  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" width="35px"> -->
+ 
+<h2><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+Francisco+Heronildo" alt="hi"/></h2>
 <h3>👨‍💻 A Software Engineering student seeking knowledge and new challenge</h3>
 
 <br/>
