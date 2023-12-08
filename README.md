@@ -42,9 +42,6 @@ Here are some ideas to get you started:
 ![My Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/FranciscoHeronildo?cardType=github&theme=graywhite)
 ![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=FranciscoHeronildo&show_icons=true&theme=blue-green)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranciscoHeronildo&theme=dark&date_format=j%20M%5B%20Y%5D)
-<!-- [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11334218)](https://stackoverflow.com/users/11334218/francisco-heronildo) -->
-
-
 
 <h3>🚀 Skills</h3>
 
@@ -57,7 +54,7 @@ Here are some ideas to get you started:
 -->
  
 <!-- ![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FranciscoHeronildo&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true) -->
- 
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11334218)](https://stackoverflow.com/users/11334218/francisco-heronildo)
 <h3>🎶 Spotify Playlists</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m64yqwippu73qdg9l9e76jv4l&cover_image=true&theme=default)](https://open.spotify.com/user/m64yqwippu73qdg9l9e76jv4l)
