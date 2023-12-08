@@ -39,11 +39,10 @@ Here are some ideas to get you started:
  
 
 
-[![My Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/FranciscoHeronildo?cardType=github&theme=graywhite)](https://git.io/awesome-stats-card)
-<!-- ![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=FranciscoHeronildo&show_icons=true&theme=blue-green) -->
- [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11334218)](https://stackoverflow.com/users/11334218/francisco-heronildo) 
+![My Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/FranciscoHeronildo?cardType=github&theme=graywhite)
+![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=FranciscoHeronildo&show_icons=true&theme=blue-green)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranciscoHeronildo&theme=dark&date_format=j%20M%5B%20Y%5D)
-
+<!-- [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11334218)](https://stackoverflow.com/users/11334218/francisco-heronildo) -->
 
 
 
