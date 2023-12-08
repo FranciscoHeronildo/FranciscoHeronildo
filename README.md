@@ -1,4 +1,4 @@
-![header](https://github.com/FranciscoHeronildo/FranciscoHeronildo/blob/main/assets/Header2.png?raw=true)
+![header](https://github.com/FranciscoHeronildo/FranciscoHeronildo/blob/main/assets/gh-header.png?raw=true)
 ---
 <div align="center">
 <!-- 
